@@ -3,8 +3,9 @@
 We, an open coalition of human rights organizations, civil society groups, victims’ advocates, and concerned citizens, call on OPCW Member States to invoke Article IX of the Chemical Weapons Convention and initiate an independent, international investigation into Iran’s suspected use of prohibited chemical agents against civilians, including protesters and school-aged children.
 
 ## Read / Download the letter
-- **English (PDF):** [https://github.com/NilouGit/OPCW.github.io/blob/docs/OPCW-letter-EN.pdf)
-- **فارسی (PDF):** [OPCW-letter-FA.pdf]([docs](https://github.com/NilouGit/OPCW.github.io/blob/docs)/OPCW-letter-FA.pdf)
+- **English (PDF):** [Download](docs/OPCW-letter-EN.pdf)
+- **فارسی (PDF):** [دانلود](docs/OPCW-letter-FA.pdf)
+
 
 ## Add your organization as a signatory
 To sign on behalf of an organization, email us:
