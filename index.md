@@ -8,7 +8,6 @@ We, an open coalition of human rights organizations, civil society groups, victi
 ## Sign as an organization
 Due to security and privacy concerns, we do not use third-party forms or tracking tools.
 
-## Sign as an organization
 To sign on behalf of an organization, use this page:
 [Open signature page](sign.html)
 
