@@ -5,9 +5,10 @@ We, an open coalition of human rights organizations, civil society groups, victi
 ## Read / Download the letter
 - **English (PDF):** [OPCW-letter-EN.pdf](docs/OPCW-letter-EN.pdf)
 - **فارسی (PDF):** [OPCW-letter-FA.pdf](docs/OPCW-letter-FA.pdf)
-## Add your organization as a signatory
-To sign on behalf of an organization, email us:
+## Sign as an organization
+Due to security and privacy concerns, we do not use third-party forms or tracking tools.
 
+Organizations wishing to sign should email us directly at:
 **Email:** [info@aairia.org](mailto:info@aairia.org?subject=OPCW%20Letter%20-%20Organization%20Signature&body=Organization%20Name%3A%0AWebsite%3A%0ACountry%3A%0AContact%20Person%20%28Name%2FRole%29%3A%0AContact%20Email%3A%0ALogo%20%28optional%29%3A%0A)
 
 Please include:
@@ -17,6 +18,10 @@ Please include:
 - Contact person (name/role)
 - Contact email
 - Logo (optional)
+
+  * If security is a concern, organizations may request:
+- Delayed publication
+- Anonymous or non-public listing
 
 ## Signatories
 See the current list here: [SIGNATORIES.md](SIGNATORIES.md)
@@ -30,3 +35,11 @@ Article IX provides mechanisms for clarification and, where necessary, challenge
 
 ### What are we asking for?
 A coordinated, independent, international investigation; public reporting of findings; and consequences if Iran denies, delays, or obstructs.
+
+
+## Security & Privacy
+We are aware of the risks faced by human rights defenders and organizations.
+This site uses no analytics, cookies, or third-party trackers.
+
+Signature submissions are handled manually via email.
+No personal data is shared with third parties.
